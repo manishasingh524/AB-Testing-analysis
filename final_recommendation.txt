@@ -1,0 +1,11 @@
+Objective:
+The objective of this A/B test was to evaluate whether showing advertisements increases user conversion compared to the PSA (control) group.
+
+Key Findings:
+The ad group showed a higher conversion rate than the PSA group. The chi-square test resulted in a statistically significant p-value (p < 0.05), indicating that the difference in conversion rates is not due to random chance. The 95% confidence interval for the difference in conversion rates does not include zero, further confirming the significance of the result.
+
+Final Decision:
+The advertisement has a statistically significant positive impact on user conversions compared to the control group.
+
+Business Recommendation:
+It is recommended to continue running advertisements, as they improve conversion performance. The business can consider allocating more budget toward ads and conducting further experiments to optimize ad creatives, targeting, and timing for even better results.
